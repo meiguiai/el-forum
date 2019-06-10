@@ -1,0 +1,64 @@
+GET http://localhost:8080/forums/1/messages
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-10T034859.200.json
+
+###
+
+GET http://localhost:8080/forums/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-10T034836.404.json
+
+###
+
+GET http://localhost:8080/forums
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-09T071324.200.json
+
+###
+
+GET http://localhost:8080/forums
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/forums
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-09T062558.200.json
+
+###
+
+GET http://localhost:8080/forums
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-09T021646.200.json
+
+###
+
+GET http://localhost:8080/forums
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/forums
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/forums
+Accept: */*
+Cache-Control: no-cache
+
+###
+

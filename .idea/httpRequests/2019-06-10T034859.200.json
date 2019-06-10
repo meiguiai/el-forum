@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "author": "Enter-Y",
+      "id": 1,
+      "forumId": 1,
+      "title": "Title 1 in Forum 1",
+      "createdAt": "2019-06-09T09:21:51Z",
+      "content": "Body of Title 1",
+      "originId": 0
+    },
+    {
+      "author": "Enter-Y",
+      "id": 2,
+      "forumId": 1,
+      "title": "Title 2 in Forum 1",
+      "createdAt": "2019-06-09T09:21:51Z",
+      "content": "Body of Title 2",
+      "originId": 0
+    },
+    {
+      "author": "Enter-Y",
+      "id": 3,
+      "forumId": 1,
+      "title": "Title 3 in Forum 1",
+      "createdAt": "2019-06-09T09:21:51Z",
+      "content": "Body of Title 3",
+      "originId": 0
+    }
+  ],
+  "forum": {
+    "name": "Forum 1",
+    "id": 1
+  },
+  "username": "enter-yang"
+}

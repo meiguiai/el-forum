@@ -1,0 +1,17 @@
+{
+  "username": "Enter-Y",
+  "forums": [
+    {
+      "id": 1,
+      "name": "Forum 1"
+    },
+    {
+      "id": 2,
+      "name": "Forum 2"
+    },
+    {
+      "id": 3,
+      "name": "Forum 3"
+    }
+  ]
+}
