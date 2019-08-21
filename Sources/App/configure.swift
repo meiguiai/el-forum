@@ -25,10 +25,10 @@ public func configure(_ config: inout Config, _ env: inout Environment, _ servic
     let mysqlPass: String
     
     if env == .development || env == .testing {
-        mysqlHost = "127.0.0.1"
-        mysqlPort = 33060
-//        mysqlHost = "mysql"
-//        mysqlPort = 3306
+//        mysqlHost = "127.0.0.1"
+//        mysqlPort = 33060
+        mysqlHost = "mysql"
+        mysqlPort = 3306
         mysqlDB = "vapor"
         mysqlUser = "vapor"
         mysqlPass = "vapor"
